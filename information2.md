@@ -1,4 +1,4 @@
 # Write this your terminal
-> npm init -y
-> npm i aoi.js
-> npm i aoi.parser
+1) npm init -y
+2) npm i aoi.js
+3) npm i aoi.parser
