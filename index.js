@@ -35,12 +35,13 @@ bot.readyCommand({
   $log[Im ready.]
   `
 })
-
+//Fiil yourself
 bot.variables({
-    "memberroleid":"1125908895857135747",
-  "autoroleroleid":"1125922481660776508",
-    "unregisterroleid":"1125922481660776508",
-    "tag":"|",   "welcomechannelid":"1125924268895633450",
-    "logchannelid":"1125924541160497212",
-    "moderatorroleid":"1125922409401286676"
+    "memberroleid":"",
+  "autoroleroleid":"",
+    "unregisterroleid":"",
+    "tag":"",   
+    "welcomechannelid":"",
+    "logchannelid":"",
+    "moderatorroleid":""
 })
